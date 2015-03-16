@@ -1,0 +1,6 @@
+[06-Nov-2014 06:13:46 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysql_result as array in /home/oswaldogh89/public_html/mexi_carro/application/controllers/users.php on line 25
+[09-Nov-2014 07:03:26 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/oswaldogh89/public_html/mexi_carro/application/controllers/users.php on line 33
+[09-Nov-2014 07:03:41 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/oswaldogh89/public_html/mexi_carro/application/controllers/users.php on line 33
+[09-Nov-2014 07:04:10 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/oswaldogh89/public_html/mexi_carro/application/controllers/users.php on line 33
+[09-Nov-2014 07:04:14 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/oswaldogh89/public_html/mexi_carro/application/controllers/users.php on line 33
+[30-Nov-2014 11:22:04 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result() in /home/oswaldogh89/public_html/mexi_carro/application/controllers/item.php on line 28
